@@ -5,86 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc94e110-0766-4fe0-97b7-e2200d85e19a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/MultipleOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/PackageA/Learn_PackageA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/PackageB/Learn_PackageB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/ReverseNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/patternpractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/Array_Deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnLinkedlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/MultiDimArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/ExceptionsInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/Exceptions_TryCatchBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/Finally_Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/HandlingSpecificExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/NestedTryCatchLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/ConstructorOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/FinalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/InterThreadCommunication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/Learn_multithreading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/MiscConceptsObjectCloning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/MultiThreading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/PostPreIncreDecre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/SUPER_Keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/SingletonClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/StaticVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/Synchronization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/ThisDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/ThreadOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/WrapperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThreading/ThreadInterruption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultithreadingImplementation/MultiThreadingImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/New_Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/AggregationHas_A_Rel1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/AggregationHas_A_Rel2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/FinalKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/HierarchicalInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/InterfaceClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/MultilevelInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/MultipleInheritance_NotAllowed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/SingleInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/SuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/This_Keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/UnderPMOR_RuntimePMOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SelPrax/SelPracto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/FlightBookingE2E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/LoginPageE2E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/StringSplitMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/ToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controlstatementpractice/TernaryOperator_check_odd_even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controlstatementpractice/WhileAndDoWhile_Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controlstatementpractice/break_continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controlstatementpractice/if_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controlstatementpractice/switch_statements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -480,5 +401,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
 </project>
