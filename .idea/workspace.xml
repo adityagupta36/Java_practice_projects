@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc94e110-0766-4fe0-97b7-e2200d85e19a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/MultipleOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/PackageA/Learn_PackageA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/PackageB/Learn_PackageB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/ReverseNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicPrograms/patternpractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/Array_Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnLinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/MultiDimArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/ExceptionsInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/Exceptions_TryCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/Finally_Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/HandlingSpecificExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/NestedTryCatchLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/ConstructorOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/FinalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/InterThreadCommunication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/Learn_multithreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/MiscConceptsObjectCloning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/MultiThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/PostPreIncreDecre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/SUPER_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/SingletonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/StaticVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/Synchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/ThisDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/ThreadOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThreading/ThreadInterruption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MultithreadingImplementation/MultiThreadingImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/New_Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/AggregationHas_A_Rel1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/AggregationHas_A_Rel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/FinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/HierarchicalInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/InterfaceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/MultilevelInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/MultipleInheritance_NotAllowed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/SingleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/This_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/UnderPMOR_RuntimePMOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SelPrax/SelPracto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/FlightBookingE2E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/LoginPageE2E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/StringSplitMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings/ToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlstatementpractice/TernaryOperator_check_odd_even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlstatementpractice/WhileAndDoWhile_Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlstatementpractice/break_continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlstatementpractice/if_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlstatementpractice/switch_statements.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Uw5qSQctrzxohqzMI8PxCQGoJ0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbstractClass (1).executor": "Run",
+    "Application.AbstractClass.executor": "Run",
+    "Application.Abstract_Anonymous (1).executor": "Run",
+    "Application.Abstract_Anonymous.executor": "Run",
+    "Application.AggregationHas_A_Rel2 (1).executor": "Run",
+    "Application.AggregationHas_A_Rel2.executor": "Run",
+    "Application.AnonymousInnerClass (1).executor": "Run",
+    "Application.AnonymousInnerClass (2).executor": "Run",
+    "Application.AnonymousInnerClass (3).executor": "Run",
+    "Application.AnonymousInnerClass.executor": "Run",
+    "Application.Array_Deque.executor": "Run",
+    "Application.Assignment1.executor": "Run",
+    "Application.Assignment2.executor": "Run",
+    "Application.B.executor": "Run",
+    "Application.BasicPrograms.P2.B.executor": "Run",
+    "Application.C.executor": "Run",
+    "Application.CasesOf_ObjTypeCast (1).executor": "Run",
+    "Application.CasesOf_ObjTypeCast.executor": "Run",
+    "Application.ClassObjCounter.executor": "Run",
+    "Application.CompiletimePoly (1).executor": "Run",
+    "Application.CompiletimePoly (2).executor": "Run",
+    "Application.CompiletimePoly (3).executor": "Run",
+    "Application.CompiletimePoly (4).executor": "Run",
+    "Application.CompiletimePoly (5).executor": "Run",
+    "Application.CompiletimePoly.executor": "Run",
+    "Application.ConstructorOverloading (1).executor": "Run",
+    "Application.ConstructorOverloading (2).executor": "Run",
+    "Application.ConstructorOverloading.executor": "Run",
+    "Application.DataHiding (1).executor": "Run",
+    "Application.DataHiding (2).executor": "Run",
+    "Application.DataHiding.executor": "Run",
+    "Application.Deadlock (1).executor": "Run",
+    "Application.Deadlock.executor": "Run",
+    "Application.DemoToString (1).executor": "Run",
+    "Application.DemoToString (2).executor": "Run",
+    "Application.DemoToString.executor": "Run",
+    "Application.E.executor": "Run",
+    "Application.EcommerceAppE2E.executor": "Run",
+    "Application.EcommerceE2E.executor": "Run",
+    "Application.FinalKeyword (1).executor": "Run",
+    "Application.FinalKeyword (2).executor": "Run",
+    "Application.FinalKeyword.executor": "Run",
+    "Application.FlightBookingE2E.executor": "Run",
+    "Application.FluentWaitTest.executor": "Run",
+    "Application.InnerClass (1).executor": "Run",
+    "Application.InnerClass (2).executor": "Run",
+    "Application.InnerClass (3).executor": "Run",
+    "Application.InnerClass (4).executor": "Run",
+    "Application.InnerClass.executor": "Run",
+    "Application.IntPrac (1).executor": "Run",
+    "Application.IntPrac.executor": "Run",
+    "Application.InterfaceClass (1).executor": "Run",
+    "Application.InterfaceClass.executor": "Run",
+    "Application.Join (1).executor": "Run",
+    "Application.Join (2).executor": "Run",
+    "Application.Join (3).executor": "Run",
+    "Application.Join (4).executor": "Run",
+    "Application.Join (5).executor": "Run",
+    "Application.Join.executor": "Run",
+    "Application.LearnArray.executor": "Run",
+    "Application.LearnArrayList.executor": "Run",
+    "Application.LearnHashMap.executor": "Run",
+    "Application.LearnHashSet.executor": "Run",
+    "Application.LearnHashTable.executor": "Run",
+    "Application.LearnQueue.executor": "Run",
+    "Application.LearnStack.executor": "Run",
+    "Application.Learn_PackageA.executor": "Run",
+    "Application.Learn_PackageB (1).executor": "Run",
+    "Application.Learn_PackageB.executor": "Run",
+    "Application.Locators.executor": "Run",
+    "Application.Locators2.executor": "Run",
+    "Application.LoginPageE2E.executor": "Run",
+    "Application.MT1 (1).executor": "Run",
+    "Application.MT1 (2).executor": "Run",
+    "Application.MT1 (3).executor": "Run",
+    "Application.MT1 (4).executor": "Run",
+    "Application.MT1.executor": "Run",
+    "Application.MT2.executor": "Run",
+    "Application.MT3 (1).executor": "Run",
+    "Application.MT3 (2).executor": "Run",
+    "Application.MT3 (3).executor": "Run",
+    "Application.MT3 (4).executor": "Run",
+    "Application.MT3.executor": "Run",
+    "Application.MethodHiding.executor": "Run",
+    "Application.MethodOverriding (1).executor": "Run",
+    "Application.MethodOverriding (2).executor": "Run",
+    "Application.MethodOverriding (3).executor": "Run",
+    "Application.MethodOverriding (4).executor": "Run",
+    "Application.MethodOverriding.executor": "Run",
+    "Application.MultiDimArray.executor": "Run",
+    "Application.MultipleInheritance_Interfaces (1).executor": "Run",
+    "Application.MultipleInheritance_Interfaces.executor": "Run",
+    "Application.MultipleOfTwo.executor": "Run",
+    "Application.NarrowTypecast.executor": "Run",
+    "Application.New_Practice1 (1).executor": "Run",
+    "Application.New_Practice1 (2).executor": "Run",
+    "Application.New_Practice1.executor": "Run",
+    "Application.ObjCount.executor": "Run",
+    "Application.ObjectTypeCasting (1).executor": "Run",
+    "Application.ObjectTypeCasting.executor": "Run",
+    "Application.Over_Riding.executor": "Run",
+    "Application.PrivateConstructor.executor": "Run",
+    "Application.RuntimePoly (1).executor": "Run",
+    "Application.RuntimePoly (2).executor": "Run",
+    "Application.RuntimePoly.executor": "Run",
+    "Application.SUPER_Keyword (1).executor": "Run",
+    "Application.SUPER_Keyword (2).executor": "Run",
+    "Application.SUPER_Keyword (3).executor": "Run",
+    "Application.SUPER_Keyword (4).executor": "Run",
+    "Application.SUPER_Keyword (5).executor": "Run",
+    "Application.SUPER_Keyword.executor": "Run",
+    "Application.SchoolAdmin (1).executor": "Run",
+    "Application.SchoolAdmin.executor": "Run",
+    "Application.SelPracto.executor": "Run",
+    "Application.SelPracto1.executor": "Run",
+    "Application.SelPracto2.executor": "Run",
+    "Application.SingleInheritance (1).executor": "Run",
+    "Application.SingleInheritance.executor": "Run",
+    "Application.SingletonDemo.executor": "Run",
+    "Application.Sleep.executor": "Run",
+    "Application.StaticInnerClass.executor": "Run",
+    "Application.StaticKeyword (1).executor": "Run",
+    "Application.StaticKeyword (2).executor": "Run",
+    "Application.StaticKeyword (3).executor": "Run",
+    "Application.StaticKeyword (4).executor": "Run",
+    "Application.StaticKeyword (5).executor": "Run",
+    "Application.StaticKeyword.executor": "Run",
+    "Application.StaticVariables.executor": "Run",
+    "Application.StringSplitMethod.executor": "Run",
+    "Application.String_prax.executor": "Run",
+    "Application.Synchronization (1).executor": "Run",
+    "Application.Synchronization (2).executor": "Run",
+    "Application.Synchronization (3).executor": "Run",
+    "Application.Synchronization (4).executor": "Run",
+    "Application.Synchronization (5).executor": "Run",
+    "Application.Synchronization.executor": "Run",
+    "Application.Synchronization2 (1).executor": "Run",
+    "Application.Synchronization2 (2).executor": "Run",
+    "Application.Synchronization2 (3).executor": "Run",
+    "Application.Synchronization2 (4).executor": "Run",
+    "Application.Synchronization2 (5).executor": "Run",
+    "Application.Synchronization2.executor": "Run",
+    "Application.SynchronizedBlock (1).executor": "Run",
+    "Application.SynchronizedBlock.executor": "Run",
+    "Application.ThisDemo (1).executor": "Run",
+    "Application.ThisDemo (2).executor": "Run",
+    "Application.ThisDemo (3).executor": "Run",
+    "Application.ThisDemo (4).executor": "Run",
+    "Application.ThisDemo.executor": "Run",
+    "Application.This_Const_Oveload (1).executor": "Run",
+    "Application.This_Const_Oveload (2).executor": "Run",
+    "Application.This_Const_Oveload (3).executor": "Run",
+    "Application.This_Const_Oveload.executor": "Run",
+    "Application.ThreadInterruption (1).executor": "Run",
+    "Application.ThreadInterruption (2).executor": "Run",
+    "Application.ThreadInterruption (3).executor": "Run",
+    "Application.ThreadInterruption.executor": "Run",
+    "Application.ThreadPriority.executor": "Run",
+    "Application.ToString (1).executor": "Run",
+    "Application.ToString (2).executor": "Run",
+    "Application.ToString (3).executor": "Run",
+    "Application.ToString (4).executor": "Run",
+    "Application.ToString (5).executor": "Run",
+    "Application.ToString.executor": "Run",
+    "Application.To_String (1).executor": "Run",
+    "Application.To_String (2).executor": "Run",
+    "Application.To_String (3).executor": "Run",
+    "Application.To_String.executor": "Run",
+    "Application.Var_arg_oerloading.executor": "Run",
+    "Application.VariableHiding_Shadowing (1).executor": "Run",
+    "Application.VariableHiding_Shadowing.executor": "Run",
+    "Application.WideningTypecast.executor": "Run",
+    "Application.WindowHandles.executor": "Run",
+    "Application.Yield (1).executor": "Run",
+    "Application.Yield (2).executor": "Run",
+    "Application.Yield.executor": "Run",
+    "Application.if_else.executor": "Run",
+    "Application.lec95_HashSet (1).executor": "Run",
+    "Application.lec95_HashSet.executor": "Run",
+    "Application.palindrome.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java programs intellij/firstprogram/src/codewithaditya/MergeSort.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java programs intellij\practice\src\main\java\Selenium" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java programs intellij\practice\src\main\java\OOPS" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="synchronized " />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SynchronizedBlock">
+    <configuration name="MT3 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.MT3" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MT3 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.MT3" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronization2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.Synchronization2" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronization2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.Synchronization2" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronization2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.Synchronization2" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronizedBlock (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.SynchronizedBlock" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronizedBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.SynchronizedBlock" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SynchronizedBlock" />
+        <item itemvalue="Application.SynchronizedBlock (1)" />
+        <item itemvalue="Application.Synchronization2 (2)" />
+        <item itemvalue="Application.Synchronization2" />
+        <item itemvalue="Application.Synchronization2 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc94e110-0766-4fe0-97b7-e2200d85e19a" name="Changes" comment="" />
+      <created>1693837997397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693837997397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="ba9935e6-e39c-4ed0-acc7-1b98a56ad863" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="ba9935e6-e39c-4ed0-acc7-1b98a56ad863">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

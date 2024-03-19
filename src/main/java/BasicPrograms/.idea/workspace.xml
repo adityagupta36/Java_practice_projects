@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="906ceb8e-8af1-4fa3-b717-3d94aaee7e16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternpractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/Array_Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/LearnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/LearnArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/LearnHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/LearnHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/LearnLinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/LearnQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructures/LearnStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/ExceptionsInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/Exceptions_TryCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/Finally_Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/HandlingSpecificExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/NestedTryCatchLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiscConcepts/InterThreadCommunication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiscConcepts/Learn_multithreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiscConcepts/MiscConceptsObjectCloning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiscConcepts/MultiThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiscConcepts/PostPreIncreDecre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiscConcepts/SingletonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiscConcepts/Synchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiscConcepts/ThreadOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiscConcepts/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultithreadingImplementation/MultiThreadingImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New_Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/AggregationHas_A_Rel1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/AggregationHas_A_Rel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/FinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/HierarchicalInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/InterfaceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/MultilevelInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/MultipleInheritance_NotAllowed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/SingleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/This_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/UnderPMOR_RuntimePMOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/ActionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/AutoSuggestiveDropdowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/BrowserActivities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/DynamicDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/EcommerceApp_AMAZON_INTVW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/FlightBookingE2E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/FluentWaitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/HandlingALerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/Locators1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/Locators2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/Locators3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/LocatorsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/SelIntroduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/StaticDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/UpdatedStaticDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Aditya_Selenium/WindowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/FlightBookingE2E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/LoginPageE2E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/StringSplitMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/ToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlstatementpractice/TernaryOperator_check_odd_even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlstatementpractice/WhileAndDoWhile_Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlstatementpractice/break_continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlstatementpractice/if_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlstatementpractice/switch_statements.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2cSjr7poLG3Q0vzAHdbBNNOczRi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java programs intellij/practice"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="906ceb8e-8af1-4fa3-b717-3d94aaee7e16" name="Changes" comment="" />
+      <created>1708112069617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708112069617</updated>
+    </task>
+    <servers />
+  </component>
+</project>
