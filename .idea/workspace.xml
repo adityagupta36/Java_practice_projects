@@ -69,6 +69,7 @@
     "Application.DataHiding.executor": "Run",
     "Application.Deadlock (1).executor": "Run",
     "Application.Deadlock.executor": "Run",
+    "Application.DefaultExceptionHandling.executor": "Run",
     "Application.DemoToString (1).executor": "Run",
     "Application.DemoToString (2).executor": "Run",
     "Application.DemoToString.executor": "Run",
@@ -241,39 +242,13 @@
       <command value="synchronized " />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SynchronizedBlock">
-    <configuration name="MT3 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.MT3" />
+  <component name="RunManager" selected="Application.DefaultExceptionHandling1">
+    <configuration name="DefaultExceptionHandling1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.DefaultExceptionHandling1" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MT3 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.MT3" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MultiThreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Synchronization2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.Synchronization2" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="PATTERN" value="ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DefaultExceptionHandling1" />
         <item itemvalue="Application.SynchronizedBlock" />
         <item itemvalue="Application.SynchronizedBlock (1)" />
         <item itemvalue="Application.Synchronization2 (2)" />
         <item itemvalue="Application.Synchronization2" />
-        <item itemvalue="Application.Synchronization2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710838413548</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My first commit">
+      <option name="closed" value="true" />
+      <created>1710939818062</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710939818062</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
