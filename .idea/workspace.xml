@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc94e110-0766-4fe0-97b7-e2200d85e19a" name="Changes" comment="My first commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/CheckedException_FileNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/CheckedException_InterruptedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/DefaultExceptionHandling2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/PrintException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/Try_Catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/UncheckedException_ArithmeticException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +60,8 @@
     "Application.C.executor": "Run",
     "Application.CasesOf_ObjTypeCast (1).executor": "Run",
     "Application.CasesOf_ObjTypeCast.executor": "Run",
+    "Application.CheckedException.executor": "Run",
+    "Application.CheckedException_InterruptedException.executor": "Run",
     "Application.ClassObjCounter.executor": "Run",
     "Application.CompiletimePoly (1).executor": "Run",
     "Application.CompiletimePoly (2).executor": "Run",
@@ -70,6 +78,8 @@
     "Application.Deadlock (1).executor": "Run",
     "Application.Deadlock.executor": "Run",
     "Application.DefaultExceptionHandling.executor": "Run",
+    "Application.DefaultExceptionHandling1.executor": "Run",
+    "Application.DefaultExceptionHandling2.executor": "Run",
     "Application.DemoToString (1).executor": "Run",
     "Application.DemoToString (2).executor": "Run",
     "Application.DemoToString.executor": "Run",
@@ -138,6 +148,7 @@
     "Application.ObjectTypeCasting (1).executor": "Run",
     "Application.ObjectTypeCasting.executor": "Run",
     "Application.Over_Riding.executor": "Run",
+    "Application.PrintException.executor": "Run",
     "Application.PrivateConstructor.executor": "Run",
     "Application.RuntimePoly (1).executor": "Run",
     "Application.RuntimePoly (2).executor": "Run",
@@ -205,6 +216,9 @@
     "Application.To_String (2).executor": "Run",
     "Application.To_String (3).executor": "Run",
     "Application.To_String.executor": "Run",
+    "Application.Try_Catch.executor": "Run",
+    "Application.Try_Multiple_Catch.executor": "Run",
+    "Application.UncheckedException_ArithmeticException.executor": "Run",
     "Application.Var_arg_oerloading.executor": "Run",
     "Application.VariableHiding_Shadowing (1).executor": "Run",
     "Application.VariableHiding_Shadowing.executor": "Run",
@@ -242,7 +256,7 @@
       <command value="synchronized " />
     </option>
   </component>
-  <component name="RunManager" selected="Application.DefaultExceptionHandling1">
+  <component name="RunManager" selected="Application.Try_Multiple_Catch">
     <configuration name="DefaultExceptionHandling1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExceptionHandling.DefaultExceptionHandling1" />
       <module name="practice" />
@@ -256,12 +270,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Synchronization2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.Synchronization2" />
+    <configuration name="PrintException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.PrintException" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="PATTERN" value="ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,12 +283,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Synchronization2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.Synchronization2" />
+    <configuration name="Try_Catch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Try_Catch" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="PATTERN" value="ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +296,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedBlock (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.SynchronizedBlock" />
+    <configuration name="Try_Multiple_Catch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Try_Multiple_Catch" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="PATTERN" value="ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,12 +309,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.SynchronizedBlock" />
+    <configuration name="UncheckedException_ArithmeticException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.UncheckedException_ArithmeticException" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="PATTERN" value="ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,11 +324,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Try_Multiple_Catch" />
+        <item itemvalue="Application.PrintException" />
+        <item itemvalue="Application.Try_Catch" />
         <item itemvalue="Application.DefaultExceptionHandling1" />
-        <item itemvalue="Application.SynchronizedBlock" />
-        <item itemvalue="Application.SynchronizedBlock (1)" />
-        <item itemvalue="Application.Synchronization2 (2)" />
-        <item itemvalue="Application.Synchronization2" />
+        <item itemvalue="Application.UncheckedException_ArithmeticException" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710939818062</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="My first commit">
+      <option name="closed" value="true" />
+      <created>1710943029659</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710943029659</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
