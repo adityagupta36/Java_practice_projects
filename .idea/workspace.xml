@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc94e110-0766-4fe0-97b7-e2200d85e19a" name="Changes" comment="My first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/FInally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/Finally_extra_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/Nested_Try_Catch_Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/Throw_Keyword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExceptionHandling/FInally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/FInally.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +88,7 @@
     "Application.FinalKeyword (1).executor": "Run",
     "Application.FinalKeyword (2).executor": "Run",
     "Application.FinalKeyword.executor": "Run",
+    "Application.Finally_extra_practice.executor": "Run",
     "Application.FlightBookingE2E.executor": "Run",
     "Application.FluentWaitTest.executor": "Run",
     "Application.InnerClass (1).executor": "Run",
@@ -137,6 +141,7 @@
     "Application.MultipleInheritance_Interfaces.executor": "Run",
     "Application.MultipleOfTwo.executor": "Run",
     "Application.NarrowTypecast.executor": "Run",
+    "Application.Nested_Try_Catch_Finally.executor": "Run",
     "Application.New_Practice1 (1).executor": "Run",
     "Application.New_Practice1 (2).executor": "Run",
     "Application.New_Practice1.executor": "Run",
@@ -252,20 +257,7 @@
       <command value="synchronized " />
     </option>
   </component>
-  <component name="RunManager" selected="Application.FInally">
-    <configuration name="DefaultExceptionHandling1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.DefaultExceptionHandling1" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Nested_Try_Catch_Finally">
     <configuration name="FInally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExceptionHandling.FInally" />
       <module name="practice" />
@@ -279,8 +271,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.PrintException" />
+    <configuration name="Finally_extra_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Finally_extra_practice" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -292,8 +284,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Try_Catch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Try_Catch" />
+    <configuration name="Nested_Try_Catch_Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Nested_Try_Catch_Finally" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.PrintException" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -320,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nested_Try_Catch_Finally" />
+        <item itemvalue="Application.Finally_extra_practice" />
         <item itemvalue="Application.FInally" />
         <item itemvalue="Application.Try_Multiple_Catch" />
         <item itemvalue="Application.PrintException" />
-        <item itemvalue="Application.Try_Catch" />
-        <item itemvalue="Application.DefaultExceptionHandling1" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +389,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710976178150</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="My first commit">
+      <option name="closed" value="true" />
+      <created>1710978006419</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710978006419</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
