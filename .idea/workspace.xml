@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc94e110-0766-4fe0-97b7-e2200d85e19a" name="Changes" comment="My first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/Finally_extra_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/Nested_Try_Catch_Finally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/Throw_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/HasA_Rel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiscConcepts/PassingUserDefObjectInMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExceptionHandling/FInally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/FInally.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +89,8 @@
     "Application.Finally_extra_practice.executor": "Run",
     "Application.FlightBookingE2E.executor": "Run",
     "Application.FluentWaitTest.executor": "Run",
+    "Application.HasA_Rel (1).executor": "Run",
+    "Application.HasA_Rel.executor": "Run",
     "Application.InnerClass (1).executor": "Run",
     "Application.InnerClass (2).executor": "Run",
     "Application.InnerClass (3).executor": "Run",
@@ -149,6 +149,8 @@
     "Application.ObjectTypeCasting (1).executor": "Run",
     "Application.ObjectTypeCasting.executor": "Run",
     "Application.Over_Riding.executor": "Run",
+    "Application.PassingUserDefObjectInMethod (1).executor": "Run",
+    "Application.PassingUserDefObjectInMethod.executor": "Run",
     "Application.PrintException.executor": "Run",
     "Application.PrivateConstructor.executor": "Run",
     "Application.RuntimePoly (1).executor": "Run",
@@ -236,7 +238,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/java programs intellij/firstprogram/src/codewithaditya/MergeSort.java",
+    "last_opened_file_path": "D:/java programs intellij/School Management System/src/main/java/com/aditya/sclmgmtsys/SchoolAdmin.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -257,13 +259,13 @@
       <command value="synchronized " />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Nested_Try_Catch_Finally">
-    <configuration name="FInally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.FInally" />
+  <component name="RunManager" selected="Application.HasA_Rel">
+    <configuration name="HasA_Rel (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiscConcepts.HasA_Rel" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="PATTERN" value="MiscConcepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Finally_extra_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Finally_extra_practice" />
+    <configuration name="HasA_Rel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiscConcepts.HasA_Rel" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="PATTERN" value="MiscConcepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +299,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.PrintException" />
+    <configuration name="PassingUserDefObjectInMethod (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiscConcepts.PassingUserDefObjectInMethod" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="PATTERN" value="MiscConcepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,12 +312,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Try_Multiple_Catch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Try_Multiple_Catch" />
+    <configuration name="PassingUserDefObjectInMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiscConcepts.PassingUserDefObjectInMethod" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="PATTERN" value="MiscConcepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,20 +327,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HasA_Rel" />
+        <item itemvalue="Application.HasA_Rel (1)" />
+        <item itemvalue="Application.PassingUserDefObjectInMethod (1)" />
+        <item itemvalue="Application.PassingUserDefObjectInMethod" />
         <item itemvalue="Application.Nested_Try_Catch_Finally" />
-        <item itemvalue="Application.Finally_extra_practice" />
-        <item itemvalue="Application.FInally" />
-        <item itemvalue="Application.Try_Multiple_Catch" />
-        <item itemvalue="Application.PrintException" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -397,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710978006419</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="My first commit">
+      <option name="closed" value="true" />
+      <created>1711064703617</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711064703617</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

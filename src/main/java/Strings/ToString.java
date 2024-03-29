@@ -14,14 +14,14 @@ class Student{
         this.cat = cat;
     }
 
-//    @Override
-//    public String toString() {
-//        return "Student{" +
-//                "id=" + id +
-//                ", name='" + name + '\'' +
-//                ", cat='" + cat + '\'' +
-//                '}';
-//    }
+    @Override
+    public String toString() {
+        return "Student{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", cat='" + cat + '\'' +
+                '}';
+    }
 
 
 
